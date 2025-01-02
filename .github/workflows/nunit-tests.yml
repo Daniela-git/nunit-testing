@@ -24,7 +24,7 @@ jobs:
               run: dotnet build --no-restore --configuration Release
 
             - name: Test solution
-              run: dotnet test --no-build --configuration
+              run: dotnet test --no-build
               continue-on-error: true
 
             - name: Get Allure history
