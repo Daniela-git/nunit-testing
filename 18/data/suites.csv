@@ -1,0 +1,11 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 03 15:59:02 GMT 2025","Fri Jan 03 15:59:03 GMT 2025","924","","Authors","","AuthorTests","AuthorScenario1","AuthorScenario1","Validate search authors returns 200
+"
+"passed","Fri Jan 03 15:59:04 GMT 2025","Fri Jan 03 15:59:04 GMT 2025","903","","Books","","BookTests","BooksScenario1","BooksScenario1","Validate search books returns 200
+"
+"passed","Fri Jan 03 15:59:05 GMT 2025","Fri Jan 03 15:59:06 GMT 2025","582","","Books","","BookTests","BooksScenario3","BooksScenario3","Validate it is possible to add a new book
+"
+"passed","Fri Jan 03 15:59:03 GMT 2025","Fri Jan 03 15:59:04 GMT 2025","701","","Authors","","AuthorTests","AuthorScenario2","AuthorScenario2","Validate search authors returns a not null array of authors
+"
+"passed","Fri Jan 03 15:59:04 GMT 2025","Fri Jan 03 15:59:05 GMT 2025","869","","Books","","BookTests","BooksScenario2","BooksScenario2","Validate search authors returns a not empty array
+"
